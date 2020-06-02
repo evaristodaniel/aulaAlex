@@ -1,0 +1,14 @@
+div {
+    width: auto;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    background-color: coral
+}
+
+p {
+    font-family: verdana;
+}
+p.center {
+    text-align: center;
+}
